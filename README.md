@@ -9,5 +9,5 @@ Proceeds from Failing Pile merch were donated to [Committee to Protect Journalis
 If you'd like to use this as a foundation for your own Chrome extension, you'll need [these instructions](https://developer.chrome.com/webstore/publish). 
 
 
-![Screenshot in Action](storeimage.png)
+[![Screenshot in Action](storeimage.png)](https://chrome.google.com/webstore/detail/buzzfeed-to-failing-pile/ofhgonkfnghihlemjaflfjdcohlhcohf?hl=en-US&gl=US)
 
