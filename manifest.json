@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "BuzzFeed to Failing Pile of Garbage",
+	"version": "1.0",
+	"description": "Replaces the text 'BuzzFeed' with 'Failing Pile of Garbage'.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"]
+		}
+	],
+	"icons": { "16": "icon16.png",
+          "128": "icon128.png"
+           }
+}
+
